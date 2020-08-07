@@ -1,4 +1,4 @@
-# Git仓库PHP代码同步钩子
+# Git仓库代码同步钩子
 
 > 项目地址：
 * 码云：[https://gitee.com/kotlindev/PHPWebHook](https://gitee.com/kotlindev/PHPWebHook)
